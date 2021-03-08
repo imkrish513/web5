@@ -1,0 +1,20 @@
+img{
+    width:250px;
+    height:150px;
+}
+
+#icon{
+    width:50px;
+    height:50px;
+}
+
+h1{
+    color:rgb(0,0,255)
+}
+
+body{
+background-image: url("original.gif");
+background-size: cover;
+text-align:center
+
+}
